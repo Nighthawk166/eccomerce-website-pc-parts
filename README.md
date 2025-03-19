@@ -1,4 +1,3 @@
-# eccomerce website pc parts
 # E-Commerce Website for PC Parts and Components
 
 ## Overview
